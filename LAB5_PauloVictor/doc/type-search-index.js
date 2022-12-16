@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Biblitex","l":"AlgoritmoTransformacao"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"Biblitex","l":"CamelCasefy"},{"p":"Biblitex","l":"Clean"},{"p":"Biblitex","l":"CleanSpaces"},{"p":"Biblitex","l":"InterrogacoesParaPontos"},{"p":"Biblitex","l":"MeioaMeio"},{"p":"Biblitex","l":"TransformaTexto"},{"p":"Biblitex","l":"UpperCase"}]
